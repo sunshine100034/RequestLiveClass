@@ -1,0 +1,34 @@
+[
+{
+	"liveCourseId":33705,
+	"transientuuid":"0555019c-071a-4bea-b76c-4a74ab869826",
+	"title":"一接口三aa+aa++一二三!@#$%^&*(<input+value='input'>",
+	"lecturerId":"5778083",
+	"assistantId":"6088765",
+	"classTimeJSONList":{
+	"list":[
+	{
+	"classTimeId":"193155",
+	"subHead":"标题长度没有限制么，应该是多少呢？yi一二三四五六七八九十！@#",
+	"date":"2021-05-25",
+	"startHour":"9",
+	"startMinute":"50",
+	"endHour":"10",
+	"endMinute":"0",
+	"classTimes":1,
+	"discount":100}
+	]
+	},
+	"organizationId":2249,
+	"showStudentCnt":true,
+	"isFree":true,
+	"coursePrice":"",
+	"liveType":3,
+	"defatltPhoto":"default1",
+	"isExternal":true,
+	"initStudyNumber":0,
+	"jointLecturers":"",
+	"publicOpenflag":false,
+	"payType":"0"
+}
+]

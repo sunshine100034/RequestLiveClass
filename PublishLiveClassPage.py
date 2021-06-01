@@ -40,9 +40,9 @@ class PublicLiveClassPage(unittest.TestCase):
         }
 
 
-        response = requests.post(url=url, headers=headers, cookies=cookies, data=data, verify=False)
+        # response = requests.post(url=url, headers=headers, cookies=cookies, data=data, verify=False)
         print(kwargs)
-        # response = requests.post(url=url, headers=headers, cookies=cookies, json=kwargs, verify=False)
+        response = requests.post(url=url, headers=headers, cookies=cookies, json=kwargs, verify=False)
         print(response.text)
 
 
